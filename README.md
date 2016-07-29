@@ -3,8 +3,8 @@ Various documents and manuals for avalon6
 
 # TODO
 
--[ ] Convert the formats to public formats like SVG and PDF
--[ ] Translate the documents into English (and or Other languages).
+ -[x] Convert the formats to public formats like SVG and PDF
+ -[x] Translate the documents into English (and or Other languages).
 
 
 # LICENSE
